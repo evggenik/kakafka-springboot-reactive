@@ -2,6 +2,16 @@ spring:
   application:
     name: consumer
 
+  data:
+    mongodb:
+      username: wasya
+      password: wasya
+      host: localhost
+      port: 27017
+      database: evggenn
+      authentication-database: admin
+
+
   kafka:
     consumer:
       bootstrap-servers: localhost:9092
