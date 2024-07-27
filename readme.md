@@ -1,2 +1,2 @@
 Spring Boot Kafka Reactive
-![](/home/evggen/IdeaProjects/kakafka-spring-boot/images/kafka_demo_application.png)
+![](https://github.com/evggenik/kakafka-springboot-reactive/blob/master/images/kafka_demo_application.png)
